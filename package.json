@@ -1,0 +1,17 @@
+{
+  "name": "wordTeacherElectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "wolfdani",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.1.5"
+  },
+  "devDependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
